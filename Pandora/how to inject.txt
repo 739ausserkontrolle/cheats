@@ -1,0 +1,2 @@
+inject steam_module.dll to steam.exe then
+inject pandora.dll to csgo.exe

@@ -1,0 +1,1 @@
+inject onetap v3.dll using manual map to csgo.exe
